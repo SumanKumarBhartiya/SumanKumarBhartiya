@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SumanKumarBhartiya
-- 👀 I’m interested in Full-Stack developement, Backend developement , Python developement.
-- 🌱 I’m currently learning Flask and Ajax.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m good at Backend developement. 
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me skb08725@gmail.com , 9304808725 
 
 
